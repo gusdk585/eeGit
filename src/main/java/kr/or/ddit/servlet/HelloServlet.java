@@ -33,7 +33,7 @@ public class HelloServlet extends HttpServlet{
 	
 	@Override
 	public void init() throws ServletException {
-		//System.out.println("HelloServlet init()");앙
+		//System.out.println("HelloServlet init()");앙엉
 	}
 	
 
