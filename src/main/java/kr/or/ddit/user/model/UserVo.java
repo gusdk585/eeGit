@@ -6,6 +6,8 @@ public class UserVo {
 	
 	
 	public UserVo(String userName) {
+		
+		
 		this.userName = userName;
 	}
 
